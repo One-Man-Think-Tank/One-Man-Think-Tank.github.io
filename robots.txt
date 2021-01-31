@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://one-man-think-tank.github.io/sitemap.xml
