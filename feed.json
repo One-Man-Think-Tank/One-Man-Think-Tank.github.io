@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "one-man-think-tank-eu",
     "description": "",
-    "home_page_url": "https://one-man-think-tank.github.io",
-    "feed_url": "https://one-man-think-tank.github.io/feed.json",
+    "home_page_url": "https://one-man-think-tank.eu",
+    "feed_url": "https://one-man-think-tank.eu/feed.json",
     "user_comment": "",
-    "icon": "https://one-man-think-tank.github.io/media/website/logo-smaller.png",
+    "icon": "https://one-man-think-tank.eu/media/website/logo-smaller.png",
     "author": {
         "name": "Ralf Westphal"
     },

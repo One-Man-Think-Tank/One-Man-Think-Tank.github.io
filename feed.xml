@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>one-man-think-tank-eu</title>
-    <link href="https://one-man-think-tank.github.io/feed.xml" rel="self" />
-    <link href="https://one-man-think-tank.github.io" />
+    <link href="https://one-man-think-tank.eu/feed.xml" rel="self" />
+    <link href="https://one-man-think-tank.eu" />
     <updated>1970-01-01T02:00:00+02:00</updated>
     <author>
         <name>Ralf Westphal</name>
     </author>
-    <id>https://one-man-think-tank.github.io</id>
+    <id>https://one-man-think-tank.eu</id>
 
 </feed>
